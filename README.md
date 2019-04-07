@@ -8,6 +8,7 @@ Dataset download from https://www.kaggle.com/snap/amazon-fine-food-reviews/kerne
 * Balanced sample has 147500 reviews
 
 #### Requirements:
+* Python 3.7
 * Standard Anaconda packages (e.g., numpy, pandas)
 * PyTorch 1.0.0
 * Torchtext 0.3.1
