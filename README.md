@@ -12,7 +12,7 @@ Results:
 * 0.69 F1 score
 * 0.47 mean absolute deviation
 
-Samples: 
+Samples: <br>
 $ python predict.py "It was very fragrant and delicate. I definitely recommend." --print
 Probability distribution:  [0.00227669 0.00171347 0.01063003 0.22481784 0.760562  ]
 5
