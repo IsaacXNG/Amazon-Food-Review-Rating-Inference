@@ -12,6 +12,8 @@ Dataset download from https://www.kaggle.com/snap/amazon-fine-food-reviews/kerne
 * Standard Anaconda packages (e.g., numpy, pandas)
 * PyTorch 1.0.0
 * Torchtext 0.3.1
+* Spacy 
+* GloVe word embeddings: 6B 100d. https://nlp.stanford.edu/projects/glove/
 
 #### Results:
 * 70% accuracy on full dataset (60% on balanced test set)
@@ -50,3 +52,4 @@ And evaluate it on the test set using this command
 
 train.py automatically calls dataloader.py which prepares the data for balancing and loading.
 
+Try next: FastText word embeddings
