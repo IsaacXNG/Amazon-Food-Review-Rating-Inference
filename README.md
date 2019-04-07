@@ -52,4 +52,5 @@ And evaluate it on the test set using this command
 
 train.py automatically calls dataloader.py which prepares the data for balancing and loading.
 
-Try next: FastText word embeddings
+#### Try next: <br>
+FastText word embeddings
