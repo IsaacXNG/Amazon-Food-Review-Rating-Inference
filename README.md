@@ -22,7 +22,8 @@ Dataset download from https://www.kaggle.com/snap/amazon-fine-food-reviews/kerne
 * 0.36 seconds of training per epoch on one Nvidia Tesla K80. 5 - 10 epochs are required to reach convergence.
 
 #### Samples: <br>
-```$ python predict.py "It was very fragrant and delicate. I definitely recommend." --print
+```
+$ python predict.py "It was very fragrant and delicate. I definitely recommend." --print
 Probability distribution:  [0.00227669 0.00171347 0.01063003 0.22481784 0.760562  ] 
 5
 
