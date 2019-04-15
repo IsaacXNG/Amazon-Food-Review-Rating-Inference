@@ -18,7 +18,7 @@ Dataset download from https://www.kaggle.com/snap/amazon-fine-food-reviews/kerne
 #### Results:
 * 70% accuracy on full dataset (60% on balanced test set)
 * 0.69 F1 score
-* 0.47 mean absolute deviation (in other words, on average, our predictions are only off by less than 0.5 stars)
+* 0.47 mean absolute error (in other words, on average, our predictions are only off by less than 0.5 stars)
 * 0.36 seconds of training per epoch on one Nvidia Tesla K80. 5 - 10 epochs are required to reach convergence.
 
 #### Samples: <br>
