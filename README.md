@@ -1,5 +1,5 @@
-# Amazon-Food-Review-Rating-Prediction
-We attempt to predict the ratings of food reviews based on sentiment analysis using Bidirectional LSTMs with PyTorch.
+# Amazon-Food-Review-Rating-Inference
+We attempt to infer the ratings of food reviews based on sentiment analysis using Bidirectional LSTMs with PyTorch.
 
 Dataset download from https://www.kaggle.com/snap/amazon-fine-food-reviews/kernels
 
